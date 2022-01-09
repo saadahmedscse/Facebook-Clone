@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151657714591",
+    "project_id": "caffeine-frient",
+    "storage_bucket": "caffeine-frient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151657714591:android:e4aa73b94eeec5c6b123aa",
+        "android_client_info": {
+          "package_name": "com.caffeine.frient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151657714591-p2e7rp4t046ta13ras7v76ntmb95ppv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXFunbirnLSjpn7wBWa2sBROAKCvklMHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151657714591-p2e7rp4t046ta13ras7v76ntmb95ppv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
